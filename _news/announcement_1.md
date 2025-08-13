@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-13-08 12:13:00-0400
+date: 2025-08-13T12:13:00
 inline: true
 related_posts: false
 ---
 
-Website created
+⛏️ Made this website!
