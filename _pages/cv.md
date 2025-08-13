@@ -1,7 +1,7 @@
 ---
 layout: cv
 permalink: /assets/pdf/LS_CV.pdf
-title: cv
+title: "CV" 
 nav: true
 nav_order: 5
 cv_pdf: LS_CV.pdf # you can also use external links here
