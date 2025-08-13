@@ -1,6 +1,7 @@
 ---
 layout: about
 title: about
+name: Lisa Samoylov
 permalink: /
 subtitle: Math + CS @ Dartmouth 
 
@@ -9,6 +10,7 @@ profile:
   image: real_profile_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
+     Senior at Dartmouth College
      [first].[last].26[AT]dartmouth.edu 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
