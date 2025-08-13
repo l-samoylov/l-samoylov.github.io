@@ -11,7 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
      Senior at Dartmouth College
-     [first].[last].26[AT]dartmouth.edu 
+     lisa.samoylov.26[AT]dartmouth.edu 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -28,4 +28,6 @@ latest_posts:
 ---
 Hello! I'm a senior majoring in Mathematics and Computer Science at Dartmouth College and a member of the [Minds, Machines, and Societies](https://www.cs.dartmouth.edu/~soroush/) group led by [Professor Soroush Vosoughi](https://faculty-directory.dartmouth.edu/soroush-vosoughi). 
 
+## Research 
+----
 (⛏️ This site is still under construction!)
