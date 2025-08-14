@@ -1,8 +1,9 @@
 ---
 layout: cv
-permalink: /assets/pdf/LisaSamoylovCV.pdf
+permalink: /cv/
 title:  CV
 page_title: "LisaSamoylovCV"
+redirect_to: /assets/pdf/LisaSamoylovCV.pdf
 nav: true
 nav_order: 5
 cv_pdf: LisaSamoylovCV.pdf #you can also use external links here
