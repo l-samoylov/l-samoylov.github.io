@@ -1,6 +1,7 @@
 ---
 layout: cv
 permalink: /assets/pdf/LisaSamoylovCV.pdf
+title:  CV
 page_title: "LisaSamoylovCV"
 nav: true
 nav_order: 5
