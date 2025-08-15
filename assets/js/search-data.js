@@ -28,7 +28,7 @@ ninja.data = [{
           description: "CV",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/cv/";
+            window.location.href = "/assets/pdf/LisaSamoylovCV.pdf";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
