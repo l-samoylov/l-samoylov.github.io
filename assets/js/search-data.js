@@ -38,6 +38,9 @@ ninja.data = [{
             },},{id: "news-️-made-this-website",
           title: '⛏️ Made this website!',
           description: "",
+          section: "News",},{id: "news-my-first-first-author-paper-was-accepted-to-a-conference",
+          title: 'My first first-author paper was accepted to a conference!',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
