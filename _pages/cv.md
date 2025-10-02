@@ -5,7 +5,7 @@ title:  CV
 page_title: "LisaSamoylovCV"
 nav: true
 nav_order: 5
-cv_pdf: LisaSamoylovCV.pdf #you can also use external links here
+cv_pdf: 
 description: CV 
 toc:
   sidebar: left
