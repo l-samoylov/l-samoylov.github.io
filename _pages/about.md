@@ -25,7 +25,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hello! I'm a senior majoring in Mathematics and Computer Science at Dartmouth College and a member of the [Minds, Machines, and Societies](https://www.cs.dartmouth.edu/~soroush/) group led by [Professor Soroush Vosoughi](https://faculty-directory.dartmouth.edu/soroush-vosoughi). 
+Hello! My name is Lisa Samoylov. 
+
+I'm a senior majoring in Mathematics and Computer Science at Dartmouth College and grateful to be member of the [Minds, Machines, and Societies](https://www.cs.dartmouth.edu/~soroush/) group led by [Professor Soroush Vosoughi](https://faculty-directory.dartmouth.edu/soroush-vosoughi). 
 
 ## Research 
 
