@@ -13,7 +13,7 @@ profile:
      lisa.samoylov.26[AT]dartmouth.edu ai-google-scholar [Google Scholar](https://scholar.google.com/citations?user=5bXHElYAAAAJ&hl=en)
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -28,5 +28,5 @@ latest_posts:
 Hello! I'm a senior majoring in Mathematics and Computer Science at Dartmouth College and a member of the [Minds, Machines, and Societies](https://www.cs.dartmouth.edu/~soroush/) group led by [Professor Soroush Vosoughi](https://faculty-directory.dartmouth.edu/soroush-vosoughi). 
 
 ## Research 
-----
+
 (⛏️ This site is still under construction!)
