@@ -10,7 +10,7 @@ profile:
   image: profile_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-     lisa.samoylov.26[AT]dartmouth.edu ai-google-scholar [Google Scholar](https://scholar.google.com/citations?user=5bXHElYAAAAJ&hl=en)
+     lisa.samoylov.26[AT]dartmouth.edu 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
