@@ -4,6 +4,10 @@
  ******************************************************************************/
 
 @use "sass:color";
+@import "variables_custom";
+@import "variables";
+@import "base";
+@import "code";
 
 // Colors
 $red-color: #ff3636 !default;
@@ -34,7 +38,7 @@ $black-color: #000000 !default;
 
 // Theme colors
 
-$code-bg-color-light: rgba($cyan-color, 0.05) !default;
+$code-bg-color-light: rgba($cyan-color, 0.05);
 $code-bg-color-dark: #2c3237 !default;
 
 // Font awesome location
