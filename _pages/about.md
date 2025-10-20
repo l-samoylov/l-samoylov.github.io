@@ -7,7 +7,7 @@ subtitle:
 
 profile:
   align: right
-  image: real_profile_pic.jpg
+  image: profile_pic2.0.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
      Dartmouth College

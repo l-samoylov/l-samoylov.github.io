@@ -1,6 +1,6 @@
 ---
 layout: cv
-permalink: /assets/pdf/LisaSamoylovCV.pdf
+permalink: /assets/pdf/LisaSamoylovResume.pdf
 title:  CV
 page_title: "LisaSamoylovCV"
 nav: true
