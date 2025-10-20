@@ -13,7 +13,7 @@ profile:
      lisa.samoylov.26[AT]dartmouth.edu 
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social:  # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -27,7 +27,7 @@ latest_posts:
 ---
 Hello! My name is Lisa Samoylov. 
 
-I'm a senior majoring in Mathematics and Computer Science at Dartmouth College and grateful to be member of the [Minds, Machines, and Societies](https://www.cs.dartmouth.edu/~soroush/) group led by [Professor Soroush Vosoughi](https://faculty-directory.dartmouth.edu/soroush-vosoughi). 
+I'm a senior majoring in Mathematics and Computer Science at Dartmouth College and grateful to be part of the [Minds, Machines, and Societies](https://www.cs.dartmouth.edu/~soroush/) group led by [Professor Soroush Vosoughi](https://faculty-directory.dartmouth.edu/soroush-vosoughi). 
 
 ## Research 
 
