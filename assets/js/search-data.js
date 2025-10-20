@@ -28,7 +28,7 @@ ninja.data = [{
           description: "CV",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/assets/pdf/LisaSamoylovCV.pdf";
+            window.location.href = "/assets/pdf/LisaSamoylovResume.pdf";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
@@ -38,8 +38,8 @@ ninja.data = [{
             },},{id: "news-️-made-this-website",
           title: '⛏️ Made this website!',
           description: "",
-          section: "News",},{id: "news-my-first-first-author-paper-was-accepted-to-a-conference",
-          title: 'My first first-author paper was accepted to a conference!',
+          section: "News",},{id: "news-my-paper-on-modelling-lean-code-embeddings-was-accepted-to-emnlp-this-is-my-first-first-author-paper-to-be-accepted-for-publication-see-you-in-suzhou",
+          title: 'My paper on modelling Lean-code embeddings was accepted to EMNLP! This is my...',
           description: "",
           section: "News",},{
       id: 'light-theme',
