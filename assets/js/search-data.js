@@ -38,8 +38,8 @@ ninja.data = [{
             },},{id: "news-️-made-this-website",
           title: '⛏️ Made this website!',
           description: "",
-          section: "News",},{id: "news-my-paper-on-modelling-lean-code-embeddings-was-accepted-to-emnlp-this-is-my-first-first-author-paper-to-be-accepted-for-publication-see-you-in-suzhou",
-          title: 'My paper on modelling Lean-code embeddings was accepted to EMNLP! This is my...',
+          section: "News",},{id: "news-my-paper-on-modelling-lean-code-embeddings-was-accepted-to-emnlp-mathnlp-workshop-this-is-my-first-first-author-paper-to-be-accepted-for-publication-see-you-in-suzhou",
+          title: 'My paper on modelling Lean-code embeddings was accepted to EMNLP (MathNLP Workshop)! This...',
           description: "",
           section: "News",},{
       id: 'light-theme',
