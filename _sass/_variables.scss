@@ -4,10 +4,6 @@
  ******************************************************************************/
 
 @use "sass:color";
-@import "variables_custom";
-@import "variables";
-@import "base";
-@import "code";
 
 // Colors
 $red-color: #ff3636 !default;
@@ -17,16 +13,16 @@ $blue-color: #0076df !default;
 $blue-color-dark: #00369f !default;
 $cyan-color: #28b0da !default;
 $light-cyan-color: color.adjust($cyan-color, $lightness: 25%);
-$green-color: #00ab37 !default;
+$green-color: #4ee67e !default;
 $green-color-lime: #0a0a08 !default;
 $green-color-dark: #009f06 !default;
-$green-color-light: #ddffdd !default;
+$green-color-light: #bbffbb !default;
 $green-color-bright: #11d68b !default;
 $purple-color: #b509ac !default;
 $light-purple-color: color.adjust($purple-color, $lightness: 25%);
 $pink-color: #f92080 !default;
 $pink-color-light: #ffdddd !default;
-$yellow-color: #efcc00 !default;
+$yellow-color: #f8e680 !default;
 
 $grey-color: #828282 !default;
 $grey-color-light: color.adjust($grey-color, $lightness: 40%);

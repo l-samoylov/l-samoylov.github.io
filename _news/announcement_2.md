@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper on modelling Lean-code embeddings was accepted to EMNLP! This is my first first-author paper to be accepted for publication. See you in Suzhou!
+My paper on modelling Lean-code embeddings was accepted to EMNLP (MathNLP Workshop)! This is my first first-author paper to be accepted for publication. See you in Suzhou!
