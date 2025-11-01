@@ -13,11 +13,23 @@
   doi = {10.1109/URTC65039.2024.10937552}
 }
 
-@inproceedings{samoylov2025tactics,
-  abbr = {EMNLP},
-  author = {Samoylov, Elisaveta and Vosoughi, Soroush},
-  selected = {true},
-  title = {Modeling Tactics as Operators: Effect-Grounded Representations for Lean Theorem Proving},
-  booktitle = {EMNLP (MathNLP)},
-  year = {2025}
+@inproceedings{samoylov-vosoughi-2025-modeling,
+    title = "Modeling Tactics as Operators: Effect-Grounded Representations for Lean Theorem Proving",
+    selected = true, 
+    author = "Samoylov, Elisaveta  and
+      Vosoughi, Soroush",
+    editor = "Valentino, Marco  and
+      Ferreira, Deborah  and
+      Thayaparan, Mokanarangan  and
+      Ranaldi, Leonardo  and
+      Freitas, Andre",
+    booktitle = "Proceedings of The 3rd Workshop on Mathematical Natural Language Processing (MathNLP 2025)",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.mathnlp-main.12/",
+    pages = "168--175",
+    ISBN = "979-8-89176-348-7",
+    abstract = "Interactive theorem provers (ITPs) such as Lean expose proof construction as a sequence of tactics applied to proof states. Existing machine learning approaches typically treat tactics either as surface tokens or as labels conditioned on the current state, eliding their operator-like semantics. This paper introduces a representation learning framework in which tactics are characterized by the changes they induce on proof states. Using a stepwise Lean proof corpus, we construct \textit{delta contexts}{---}token-level additions/removals and typed structural edits{---}and train simple distributional models ($\Delta$-SGNS and CBOW-$\Delta$) to learn tactic embeddings grounded in these state transitions. Experiments on tactic retrieval and operator-style analogy tests show that $\Delta$-supervision yields more interpretable and generalizable embeddings than surface-only baselines. Our findings suggest that capturing the semantics of tactics requires modeling their state-transformational effects, rather than relying on distributional co-occurrence alone."
 }
