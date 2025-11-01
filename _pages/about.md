@@ -27,7 +27,7 @@ latest_posts:
 ---
 Hello! My name is Lisa Samoylov. 
 
-I'm a senior majoring in Mathematics and Computer Science at Dartmouth College and grateful to be part of the [Minds, Machines, and Societies](https://www.cs.dartmouth.edu/~soroush/) group led by [Professor Soroush Vosoughi](https://faculty-directory.dartmouth.edu/soroush-vosoughi). 
+I'm a senior majoring in Mathematics and Computer Science at Dartmouth College and grateful to be part of the [Minds, Machines, and Societies](https://www.cs.dartmouth.edu/~soroush/) group led by [Professor Soroush Vosoughi](https://faculty-directory.dartmouth.edu/soroush-vosoughi) in the Department of Computer Science. 
 
 ## Research 
 
