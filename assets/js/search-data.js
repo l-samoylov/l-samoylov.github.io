@@ -41,6 +41,9 @@ ninja.data = [{
           section: "News",},{id: "news-my-paper-on-modelling-lean-code-embeddings-was-accepted-to-emnlp-mathnlp-workshop-this-is-my-first-first-author-paper-to-be-accepted-for-publication-see-you-in-suzhou",
           title: 'My paper on modelling Lean-code embeddings was accepted to EMNLP (MathNLP Workshop)! This...',
           description: "",
+          section: "News",},{id: "news-i-ll-be-working-at-kungfu-ai-as-a-machine-learning-engineer-intern-this-spring",
+          title: 'I’ll be working at KUNGFU.AI as a Machine Learning Engineer Intern this Spring!...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
