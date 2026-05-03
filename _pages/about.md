@@ -29,7 +29,7 @@ Hello! My name is Lisa Samoylov.
 
 I'm an incoming MS ML student at Carnegie Mellon. Right now, I'm wrapping up my Bachelor's at Dartmouth, where I'm a Math/CS double major. I'm grateful to be part of the [Minds, Machines, and Societies](https://www.cs.dartmouth.edu/~soroush/) group led by [Professor Soroush Vosoughi](https://faculty-directory.dartmouth.edu/soroush-vosoughi) in the Department of Computer Science. 
 
-I started out as a pure math major (more symbols than numbers!), but I recently got into Computer Science after taking a couple of courses and through the advice of my professors. I'm intersted in AI for Math and AI reasoning. Feel free to reach out if you'd like to collaborate! 
+I started out as a pure math major (more symbols than numbers!), but I recently got into Computer Science after taking a couple of courses and through the advice of my professors. Feel free to reach out if you'd like to collaborate! 
 
 ## Research 
 
