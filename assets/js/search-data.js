@@ -44,8 +44,11 @@ ninja.data = [{
           section: "News",},{id: "news-i-ll-be-working-at-kungfu-ai-as-a-machine-learning-engineer-intern-this-spring",
           title: 'I’ll be working at KUNGFU.AI as a Machine Learning Engineer Intern this Spring!...',
           description: "",
-          section: "News",},{id: "news-my-long-paper-on-representing-lean-proofs-in-latent-space-has-been-accepted-to-acl-srw-so-excited-to-meet-incredible-people-and-learn-from-the-community",
-          title: 'My long paper on representing Lean proofs in latent space has been accepted...',
+          section: "News",},{id: "news-my-paper-on-representing-lean-proofs-in-latent-space-has-been-accepted-to-acl-srw-so-excited-to-meet-incredible-people-and-learn-from-the-community",
+          title: 'My paper on representing Lean proofs in latent space has been accepted to...',
+          description: "",
+          section: "News",},{id: "news-i-m-joining-booko-yc-w26-as-a-machine-learning-engineer-this-summer-i-ll-be-working-on-dynamic-pricing-and-end-to-end-model-deployment",
+          title: 'I’m joining Booko (YC W26) as a Machine Learning Engineer this summer! I’ll...',
           description: "",
           section: "News",},{
       id: 'light-theme',
