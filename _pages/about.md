@@ -31,6 +31,4 @@ I'm an incoming MS ML student at Carnegie Mellon. Right now, I'm wrapping up my 
 
 I started out as a pure math major (more symbols than numbers!), but I recently got into Computer Science after taking a couple of courses and through the advice of my professors. Feel free to reach out if you'd like to collaborate! 
 
-## Research 
-
 (⛏️ This site is still under construction!)

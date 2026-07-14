@@ -1,2 +1,3 @@
-# Force LF line endings, needed for Docker to work on Windows
-*.sh text eol=lf
+# Force LF line endings for all text files so Prettier's CI check
+# (which defaults to endOfLine: lf) matches what's committed.
+* text=auto eol=lf
