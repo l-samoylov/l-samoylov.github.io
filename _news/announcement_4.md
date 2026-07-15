@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper on representing Lean proofs in latent space has been accepted to ACL SRW! See you in San Diego 🌴
+My paper on representing Lean proofs in latent space has been accepted to ACL SRW (Main Proceedings)!
