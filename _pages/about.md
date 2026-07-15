@@ -26,8 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello! My name is Lisa Samoylov. Currently, I'm a Masters student at Carnegie Mellon in the Machine Learning Department.
+Hello! My name is Lisa Samoylov. Currently, I'm a Masters student at Carnegie Mellon in the Machine Learning Department. 
 
 Previously, at Dartmouth I worked with [Prof. Soroush Vosoughi](https://faculty-directory.dartmouth.edu/soroush-vosoughi) on AI4Math, specifically Lean Theorem provers. I also worked with [Dr. Yao Fehlis](https://www.kungfu.ai/person/yao-fehlis) on LLM structured output generation while interning at [KUNGFU.AI](https://www.kungfu.ai/).
 
-Feel free to reach out if you'd like to collaboate!
+Feel free to reach out if you'd like to collaborate!

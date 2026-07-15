@@ -160,7 +160,7 @@
     {% if entry.type == 'article' %}
       {% capture entrytype %}<em>{{ entry.journal }}</em>{% endcapture %}
     {% elsif proceedings contains entry.type %}
-      {% if page.selected_papers %}
+      {% if page.selected_papers or entry.hide_in %}
         {% capture entrytype %}<em>{{ entry.booktitle }}</em>{% endcapture %}
       {% else %}
         {% capture entrytype %}<em>In {{ entry.booktitle }}</em>{% endcapture %}
