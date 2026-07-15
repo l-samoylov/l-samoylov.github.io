@@ -25,8 +25,10 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-Hello! My name is Lisa Samoylov. 
+Hello!👋
 
-I'm an incoming MS ML student at Carnegie Mellon. Right now, I'm wrapping up my Bachelor's at Dartmouth, where I'm a Math/CS double major. I'm grateful to be part of the [Minds, Machines, and Societies](https://www.cs.dartmouth.edu/~soroush/) group led by [Professor Soroush Vosoughi](https://faculty-directory.dartmouth.edu/soroush-vosoughi) in the Department of Computer Science. 
+My name is Lisa Samoylov. Currently, I'm a MS ML student at Carnegie Mellon. 
 
-I started out as a pure math major (more symbols than numbers!), but I recently got into Computer Science after taking a couple of courses and through the advice of my professors. Feel free to reach out if you'd like to collaborate! 
+Previously, at Dartmouth I worked with [Prof. Soroush Vosoughi](https://faculty-directory.dartmouth.edu/soroush-vosoughi) on AI4Math, specifically Lean Theorem provers. I also worked with [Dr. Yao Fehlis](https://www.kungfu.ai/person/yao-fehlis) on LLM structured output generation while interning at [KUNGFU.AI](https://www.kungfu.ai/). 
+
+Feel free to reach out if you'd like to collaboate!

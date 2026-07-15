@@ -700,6 +700,31 @@ footer.sticky-bottom {
 
 // Publications
 
+.pub-tabs {
+  border-bottom: 1px solid var(--global-divider-color);
+  margin-top: 1rem;
+
+  .nav-link {
+    color: var(--global-text-color-light);
+    background: none;
+    border: none;
+    border-bottom: 2px solid transparent;
+    border-radius: 0;
+
+    &:hover {
+      color: var(--global-hover-color);
+      border-color: transparent;
+    }
+
+    &.active {
+      color: var(--global-theme-color);
+      background: none;
+      border-color: transparent;
+      border-bottom: 2px solid var(--global-theme-color);
+    }
+  }
+}
+
 .publications {
   margin-top: 2rem;
 

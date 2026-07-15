@@ -1,3 +1,42 @@
-<div class="publications">
-  {% bibliography --group_by none --query @*[selected=true]* %}
+<ul class="nav nav-tabs pub-tabs" id="pub-tabs" role="tablist">
+  <li class="nav-item" role="presentation">
+    <button
+      class="nav-link active"
+      id="pub-tab-selected"
+      data-bs-toggle="tab"
+      data-bs-target="#pub-pane-selected"
+      type="button"
+      role="tab"
+      aria-controls="pub-pane-selected"
+      aria-selected="true"
+    >
+      Selected
+    </button>
+  </li>
+  <li class="nav-item" role="presentation">
+    <button
+      class="nav-link"
+      id="pub-tab-underreview"
+      data-bs-toggle="tab"
+      data-bs-target="#pub-pane-underreview"
+      type="button"
+      role="tab"
+      aria-controls="pub-pane-underreview"
+      aria-selected="false"
+    >
+      Under Review
+    </button>
+  </li>
+</ul>
+<div class="tab-content" id="pub-tabs-content">
+  <div class="tab-pane fade show active" id="pub-pane-selected" role="tabpanel" aria-labelledby="pub-tab-selected">
+    <div class="publications">
+      {% bibliography --group_by none --query @*[selected=true]* %}
+    </div>
+  </div>
+  <div class="tab-pane fade" id="pub-pane-underreview" role="tabpanel" aria-labelledby="pub-tab-underreview">
+    <div class="publications">
+      {% bibliography --group_by none --query @*[underreview=true]* %}
+    </div>
+  </div>
 </div>
