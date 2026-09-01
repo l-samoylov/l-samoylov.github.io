@@ -10,6 +10,9 @@
 "ACL":
   url: https://2026.aclweb.org/
 
+"ARR": 
+  url: https://openreview.net/group?id=aclweb.org/ACL/ARR
+
 "TMLR":
   url: https://jmlr.org/tmlr/
 
