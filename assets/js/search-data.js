@@ -47,7 +47,12 @@ ninja.data = [{
           section: "News",},{id: "news-i-m-joining-booko-yc-w26-as-a-machine-learning-engineer-this-summer-i-ll-be-working-on-dynamic-pricing-and-end-to-end-model-deployment",
           title: 'I’m joining Booko (YC W26) as a Machine Learning Engineer this summer! I’ll...',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-y86-machine",
+          title: 'Y86 Machine',
+          description: "Computer Architecture (COSC51)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/cs51/";
+            },},{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
