@@ -712,110 +712,113 @@ footer.sticky-bottom {
 }
 
 // project modal layout 
+// Projects Modal Customization
+
 .project-modal {
-  // Only override display when Bootstrap activates the modal
   &.show {
-    display: flex !important;
-    align-items: center;
-    justify-content: center;
+    display: block !important;
   }
 
   .modal-dialog {
-    width: 40vw;
-    max-width: 40vw;
-    height: 80vh;
-    max-height: 80vh;
-    margin: auto;
-    display: flex;
-    flex-direction: column;
+    position: fixed !important;
+    top: 50% !important;
+    left: 50% !important;
+    transform: translate(-50%, -50%) !important;
+    width: 40vw !important;
+    max-width: 40vw !important;
+    height: 80vh !important;
+    max-height: 80vh !important;
+    margin: 0 !important;
+    display: flex !important;
+    flex-direction: column !important;
   }
 
   .modal-content {
-    width: 100%;
-    height: 100%;
-    display: flex;
-    flex-direction: column;
-    overflow: hidden;
-    color: var(--global-text-color);
-    background-color: var(--global-bg-color);
-    border: 1px solid var(--global-divider-color);
-    border-radius: 1rem;
+    width: 100% !important;
+    height: 100% !important;
+    display: flex !important;
+    flex-direction: column !important;
+    overflow: hidden !important;
+    color: var(--global-text-color) !important;
+    background-color: var(--global-bg-color) !important;
+    border: 1px solid var(--global-divider-color) !important;
+    border-radius: 1rem !important;
   }
 
   .modal-header {
-    flex: 0 0 auto;
-    display: flex;
-    align-items: flex-start;
-    justify-content: space-between;
-    padding: 1rem 1.25rem 0.75rem;
-    border-bottom: 1px solid var(--global-divider-color);
+    flex: 0 0 auto !important;
+    display: flex !important;
+    align-items: flex-start !important;
+    justify-content: space-between !important;
+    padding: 1rem 1.25rem 0.75rem !important;
+    border-bottom: 1px solid var(--global-divider-color) !important;
 
     .modal-title {
-      font-size: 1.35rem;
-      line-height: 1.2;
-      margin: 0;
+      font-size: 1.35rem !important;
+      line-height: 1.2 !important;
+      margin: 0 !important;
     }
 
     // Top-right exit button styling ('X')
     .close,
     .btn-close {
-      margin: -0.5rem -0.5rem -0.5rem auto;
-      padding: 0.25rem 0.5rem;
-      background: transparent;
-      border: 0;
-      font-size: 1.5rem;
-      line-height: 1;
-      color: var(--global-text-color);
-      text-shadow: none;
-      opacity: 0.7;
-      cursor: pointer;
-      transition: opacity 0.15s ease, color 0.15s ease;
+      margin: -0.5rem -0.5rem -0.5rem auto !important;
+      padding: 0.25rem 0.5rem !important;
+      background: transparent !important;
+      border: 0 !important;
+      font-size: 1.5rem !important;
+      line-height: 1 !important;
+      color: var(--global-text-color) !important;
+      text-shadow: none !important;
+      opacity: 0.7 !important;
+      cursor: pointer !important;
+      transition: opacity 0.15s ease, color 0.15s ease !important;
 
       &:hover {
-        opacity: 1;
-        color: var(--global-theme-color);
+        opacity: 1 !important;
+        color: var(--global-theme-color) !important;
       }
 
       &:focus {
-        outline: none;
+        outline: none !important;
       }
     }
   }
 
   .project-modal-description {
-    margin: 0.25rem 0 0;
-    color: var(--global-text-color-light);
-    font-size: 0.8rem;
-    line-height: 1.3;
+    margin: 0.25rem 0 0 !important;
+    color: var(--global-text-color-light) !important;
+    font-size: 0.8rem !important;
+    line-height: 1.3 !important;
   }
 
   .modal-body {
-    flex: 1 1 auto;
-    padding: 1rem 1.25rem 1.25rem;
-    overflow-y: auto; /* Fixes text cropping by enabling vertical scrolling */
-    overflow-x: hidden;
-    font-size: clamp(0.75rem, 0.9vw, 0.9rem);
-    line-height: 1.4;
-    word-break: break-word;
+    flex: 1 1 auto !important;
+    padding: 1rem 1.25rem 1.25rem !important;
+    overflow-y: auto !important;
+    overflow-x: hidden !important;
+    font-size: clamp(0.75rem, 0.9vw, 0.9rem) !important;
+    line-height: 1.4 !important;
+    word-break: break-word !important;
 
     h2,
     h3 {
-      margin: 0.8rem 0 0.3rem;
-      font-size: 1rem;
-      line-height: 1.25;
+      margin: 0.8rem 0 0.3rem !important;
+      font-size: 1rem !important;
+      line-height: 1.25 !important;
     }
 
     h2:first-child,
     h3:first-child {
-      margin-top: 0;
+      margin-top: 0 !important;
     }
 
     p {
-      margin-bottom: 0.6rem;
+      margin-bottom: 0.6rem !important;
     }
 
     p:last-child {
-      margin-bottom: 0;
+      margin-bottom: 0 !important;
     }
   }
 }
@@ -823,17 +826,16 @@ footer.sticky-bottom {
 @media (max-width: 767.98px) {
   .project-modal {
     .modal-dialog {
-      width: 88vw;
-      max-width: 88vw;
-      height: 80vh;
+      width: 88vw !important;
+      max-width: 88vw !important;
+      height: 80vh !important;
     }
 
     .modal-body {
-      font-size: clamp(0.7rem, 2.5vw, 0.85rem);
+      font-size: clamp(0.7rem, 2.5vw, 0.85rem) !important;
     }
   }
 }
-
 // Publications
 
 .pub-tabs {
