@@ -52,6 +52,16 @@ ninja.data = [{
           description: "Computer Architecture (COSC51)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cs51/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tse/";
+            },},{id: "projects-",
+          title: '',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/viterbi/";
             },},{
       id: 'light-theme',
       title: 'Change theme to light',
