@@ -9,16 +9,9 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "publications",
-          description: "🚀 Incoming! * indicates that authors are listed alphabetically, per custom in mathematics",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-projects",
+  },{id: "nav-projects",
           title: "projects",
-          description: "⛏️ Under construction",
+          description: "Projects I&#39;ve completed as part of coursework, and in my free time! ⛏️💎",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -52,6 +45,11 @@ ninja.data = [{
           description: "Computer Architecture (COSC51)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cs51/";
+            },},{id: "projects-sudoku-solvers",
+          title: 'Sudoku Solvers',
+          description: "COSC 76",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sudoku/";
             },},{id: "projects-tiny-search-engine",
           title: 'Tiny Search Engine',
           description: "COSC 50",
