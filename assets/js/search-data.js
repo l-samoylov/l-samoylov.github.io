@@ -52,14 +52,14 @@ ninja.data = [{
           description: "Computer Architecture (COSC51)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cs51/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-tiny-search-engine",
+          title: 'Tiny Search Engine',
+          description: "COSC 50",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tse/";
-            },},{id: "projects-",
-          title: '',
-          description: "",
+            },},{id: "projects-part-of-speech-tagger",
+          title: 'Part-of-Speech Tagger',
+          description: "COSC 10",
           section: "Projects",handler: () => {
               window.location.href = "/projects/viterbi/";
             },},{
