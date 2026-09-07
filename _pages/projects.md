@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Projects I've completed as part of coursework, and in my free time! ⛏️💎
+description: Projects I've completed as part of coursework, and in my free time! ⛏️
 nav: true
 nav_order: 3
 display_categories: [work, coursework]
