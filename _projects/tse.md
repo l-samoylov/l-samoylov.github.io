@@ -1,6 +1,6 @@
 ---
 layout: page
-title: [Tiny Search Engine](https://github.com/l-samoylov/TinySearchEngine)
+title: Tiny Search Engine
 description: COSC 50 
 img: 
 importance: 1
@@ -23,6 +23,7 @@ This search engine demonstrates the basic components:
 
   4. Displays matching pages from highest to lowest score, including each page’s URL.
 
+View [here on Github](https://github.com/l-samoylov/TinySearchEngine)
 
 
 
