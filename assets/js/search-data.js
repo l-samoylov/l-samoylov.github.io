@@ -54,17 +54,17 @@ ninja.data = [{
               window.location.href = "/projects/cs51/";
             },},{id: "projects-sudoku-solvers",
           title: 'Sudoku Solvers',
-          description: "COSC 76",
+          description: "Artificial Intelligence (COSC 76)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/sudoku/";
             },},{id: "projects-tiny-search-engine",
           title: 'Tiny Search Engine',
-          description: "COSC 50",
+          description: "Software Design &amp; Implementation (COSC 50)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tse/";
             },},{id: "projects-part-of-speech-tagger",
           title: 'Part-of-Speech Tagger',
-          description: "COSC 10",
+          description: "Object Oriented Coding (COSC 10)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/viterbi/";
             },},{
