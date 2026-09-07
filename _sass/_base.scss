@@ -195,6 +195,13 @@ ul.task-list input[type="checkbox"] {
 .profile {
   width: 100%;
 
+  img {
+    max-height: 220px; /* Set your desired maximum height here */
+    width: auto;       /* Automatically scales width down to preserve aspect ratio */
+    display: block;
+    margin: 0 auto;    /* Centers the image if it becomes narrower than its container */
+  }
+  
   .more-info {
     margin-bottom: 5px;
     margin-top: 5px;

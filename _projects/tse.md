@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tiny Search Engine
-description: COSC 50 
+description: Software Design & Implementation (COSC 50) 
 img: 
 importance: 1
 category: coursework

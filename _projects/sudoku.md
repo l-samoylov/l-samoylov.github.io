@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sudoku Solvers
-description: COSC 76
+description: Artificial Intelligence (COSC 76) 
 img: assets/img/projects/sudoku.png
 importance: 1
 category: coursework
