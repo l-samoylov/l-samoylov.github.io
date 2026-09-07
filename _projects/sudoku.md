@@ -14,4 +14,4 @@ By [representing sudoku as a satisfiability (SAT) problem](https://www.eeecs.qub
 
 It also checks if the sudoku puzzle can even be solved! 
 
-(DPLL beats GSAT, WalkSAT, and me 🥲 at [medium sudoku puzzles] (https://sudoku.com/medium/))
+(DPLL beats GSAT, WalkSAT, and me 🥲 at [medium sudoku puzzles](https://sudoku.com/medium/))
