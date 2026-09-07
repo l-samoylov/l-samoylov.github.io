@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: description: "🚀 Incoming! (*indicates that authors are listed alphabetically)"
+description: "🚀 Incoming! (*indicates that authors are listed alphabetically)"
 nav: true
 nav_order: 2
 ---
