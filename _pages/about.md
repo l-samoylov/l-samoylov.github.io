@@ -7,7 +7,7 @@ subtitle:
 
 profile:
   align: right
-  image: profile_pic.png
+  image: profile_pic.jng
   image_circular: false # crops the image to make it circular
   more_info: >
     esamoylov[AT]cmu.edu
