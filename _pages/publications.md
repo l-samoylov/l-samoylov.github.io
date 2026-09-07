@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: 🚀 Incoming! * indicates that authors are listed alphabetically, per custom in mathematics
+description: description: "🚀 Incoming!<br><small>(*indicates that authors are listed alphabetically, per custom in mathematics)</small>"
 nav: true
 nav_order: 2
 ---
