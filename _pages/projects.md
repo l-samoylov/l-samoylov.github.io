@@ -5,7 +5,7 @@ permalink: /projects/
 description: ⛏️ Under construction
 nav: true
 nav_order: 3
-display_categories: [work, fun, coursework]
+display_categories: [work, coursework]
 horizontal: false
 ---
 
