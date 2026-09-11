@@ -30,12 +30,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/assets/pdf/LisaSamoylovResume.pdf";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-my-paper-on-modelling-lean-code-embeddings-was-accepted-to-the-mathnlp-workshop-emnlp-this-is-my-first-paper-to-be-accepted-for-publication-see-you-in-suzhou",
+        },{id: "news-my-paper-on-modelling-lean-code-embeddings-was-accepted-to-the-mathnlp-workshop-emnlp-this-is-my-first-paper-to-be-accepted-for-publication-see-you-in-suzhou",
           title: 'My paper on modelling Lean-code embeddings was accepted to the MathNLP Workshop @...',
           description: "",
           section: "News",},{id: "news-i-ll-be-working-at-kungfu-ai-as-a-machine-learning-engineer-intern-this-spring",
