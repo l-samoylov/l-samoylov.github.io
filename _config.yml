@@ -9,7 +9,7 @@ last_name: Samoylov
 contact_note: >
 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Academic website of Elisaveta (Lisa) Samoylov, featuring research and publications in machine learning, AI for mathematics, Lean theorem proving, and NLP.
+  Academic website of Lisa Samoylov, full name Elisaveta Samoylov, a current Master's student at Carnegie Mellon University, featuring research and publications in machine learning, AI for mathematics, Lean theorem proving, and NLP.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
