@@ -30,4 +30,4 @@ Hello! My name is Lisa Samoylov, but my full name is Elisaveta Samoylov. Current
 
 Previously, at Dartmouth I worked with [Prof. Soroush Vosoughi](https://faculty-directory.dartmouth.edu/soroush-vosoughi) on AI4Math, specifically Lean Theorem provers. I also was fortunate to work with [Dr. Yao Fehlis](https://www.kungfu.ai/person/yao-fehlis) on LLM structured output generation while interning at [KUNGFU.AI](https://www.kungfu.ai/).
 
-Feel free to reach out if you'd like to collaborate!
+I'm currently exploring new areas and would love to collaborate! Feel free to reach out if you're interested!
