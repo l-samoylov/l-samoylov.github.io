@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Y86 Machine 
+title: LLM-from-Scratch
 description: Advanced Machine Learning (CMU 10-715)
 img: 
 importance: 1

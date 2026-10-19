@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Y86 Machine 
+title: Autodiff Library 
 description: Deep Learning Systems (CMU 10-714)
-img: assets/img/projects/dpath.png
+img: 
 importance: 1
 category: coursework
 ---
