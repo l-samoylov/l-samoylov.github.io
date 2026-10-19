@@ -226,22 +226,38 @@
     {% endcase %}
   {% endfor %}
 
+  {% assign person_id = '/#person' | absolute_url %}
+  {% assign schema_page_name = page.page_title | default: page.title | default: site.title %}
+  {% if page.url == '/' %}
+    {% assign schema_page_name = site.title %}
+  {% endif %}
   <script type="application/ld+json">
     {
-        "author":
+      "@context": "https://schema.org",
+      "@graph": [
         {
-            "@type": "Person",
-            "name": "{{ author_name }}"
+          "@type": "Person",
+          "@id": {{ person_id | jsonify }},
+          "name": {{ site.person_name | default: author_name | jsonify }},
+          {% if site.person_alternate_names %}
+          "alternateName": {{ site.person_alternate_names | jsonify }},
+          {% endif %}
+          {% if sameaslinks != empty %}
+          "sameAs": {{ sameaslinks | jsonify }},
+          {% endif %}
+          "url": {{ '/' | absolute_url | jsonify }}
         },
-        "url": "{{ page.url | prepend: site.baseurl | prepend: site.url }}",
-        "@type": "{% if is_blog_post %}BlogPosting{% else %}WebSite{% endif %}",
-        "description": "{% if page.description %}{{ page.description }}{% else if site.description %}{{ site.description }}{% endif %}",
-        "headline": "{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}",
-        {% if sameaslinks != blank %}
-        "sameAs": {{ sameaslinks | jsonify }},
-        {% endif %}
-        "name": "{{ author_name }}",
-        "@context": "https://schema.org"
+        {
+          "@type": "{% if page.url == '/' %}ProfilePage{% elsif is_blog_post %}BlogPosting{% else %}WebPage{% endif %}",
+          "url": {{ page.url | replace: 'index.html', '' | absolute_url | jsonify }},
+          "name": {{ schema_page_name | jsonify }},
+          "description": {{ page.description | default: site.description | jsonify }},
+          {% if page.url == '/' %}
+          "mainEntity": { "@id": {{ person_id | jsonify }} },
+          {% endif %}
+          "author": { "@id": {{ person_id | jsonify }} }
+        }
+      ]
     }
   </script>
 {% endif %}
