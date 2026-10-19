@@ -45,8 +45,8 @@ ninja.data = [{
           section: "News",},{id: "news-started-cmu-s-ms-ml-program",
           title: 'Started CMU’s MS ML program!',
           description: "",
-          section: "News",},{id: "projects-y86-machine",
-          title: 'Y86 Machine',
+          section: "News",},{id: "projects-llm-from-scratch",
+          title: 'LLM-from-Scratch',
           description: "Advanced Machine Learning (CMU 10-715)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/advml/";
@@ -55,8 +55,8 @@ ninja.data = [{
           description: "Computer Architecture (COSC51)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cs51/";
-            },},{id: "projects-y86-machine",
-          title: 'Y86 Machine',
+            },},{id: "projects-autodiff-library",
+          title: 'Autodiff Library',
           description: "Deep Learning Systems (CMU 10-714)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/dlsys/";
