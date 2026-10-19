@@ -44,9 +44,19 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-y86-machine",
           title: 'Y86 Machine',
+          description: "Advanced Machine Learning (CMU 10-715)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/advml/";
+            },},{id: "projects-y86-machine",
+          title: 'Y86 Machine',
           description: "Computer Architecture (COSC51)",
           section: "Projects",handler: () => {
               window.location.href = "/projects/cs51/";
+            },},{id: "projects-y86-machine",
+          title: 'Y86 Machine',
+          description: "Deep Learning Systems (CMU 10-714)",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/dlsys/";
             },},{id: "projects-sudoku-solvers",
           title: 'Sudoku Solvers',
           description: "Artificial Intelligence (COSC 76)",
