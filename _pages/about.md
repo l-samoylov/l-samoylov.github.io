@@ -28,7 +28,7 @@ latest_posts:
 
 Hello! 👋 My name is Lisa Samoylov, but my full name is Elisaveta Samoylov. Currently, I’m a Master’s student at Carnegie Mellon in the Machine Learning Department.
 
-My research interests span **generative AI**, **LLM agents and reasoning**, **reinforcement learning**, and **algorithms**. I'm always happy to chat! Feel free to reach out! 
+My research interests span **generative AI**, **NLP**, **LLM agents and reasoning**, **reinforcement learning**, and **automated reasoning**. I'm always happy to chat! Feel free to reach out! 
 
 {% details A little bit more about me... %}
 At Dartmouth, I worked with [Prof. Soroush Vosoughi](https://faculty-directory.dartmouth.edu/soroush-vosoughi) on learned representations and search for automated theorem proving. More recently, I was fortunate to work with [Dr. Yao Fehlis](https://www.kungfu.ai/person/yao-fehlis) at [KUNGFU.AI](https://www.kungfu.ai/), exploring how feedback can improve LLM generation for structured outputs, like JSON.
