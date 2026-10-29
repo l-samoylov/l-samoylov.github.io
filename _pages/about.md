@@ -28,9 +28,7 @@ latest_posts:
 
 Hello! 👋 My name is Lisa Samoylov, but my full name is Elisaveta Samoylov. Currently, I’m a Master’s student at Carnegie Mellon in the Machine Learning Department.
 
-Previously, at Dartmouth I worked with [Prof. Soroush Vosoughi](https://faculty-directory.dartmouth.edu/soroush-vosoughi) on AI4Math, specifically Lean Theorem provers. I also was fortunate to work with [Dr. Yao Fehlis](https://www.kungfu.ai/person/yao-fehlis) on LLM structured output generation while interning at [KUNGFU.AI](https://www.kungfu.ai/).
-
-I'm currently exploring new areas and would love to collaborate! Feel free to reach out if you're interested!
+My research interests span generative AI, LLM agents and reasoning, reinforcement learning, and algorithms. I'm always happy to chat! Feel free to reach out! 
 
 {% details A little bit more about me... %}
 My interest in Machine Learning began with SAT Solvers: after building a Sudoku solver, I grew curious about whether ML could make SAT solving more efficient. While those experiments didn't quite work out, they sparked my interest in learning-based approaches to reasoning and problem-solving.
