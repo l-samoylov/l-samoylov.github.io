@@ -37,4 +37,5 @@ At Dartmouth, I went on to work with [Prof. Soroush Vosoughi](https://faculty-di
 
 Along the way, I've also built demand forecasting systems and implemented deep learning systems from scratch.
 
-I'm also a huge fan of SNL and love running. 
+I'm also a huge fan of SNL and love running.
+{% enddetails %}
