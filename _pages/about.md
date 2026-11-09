@@ -28,7 +28,7 @@ latest_posts:
 
 Hello! 👋 My name is Lisa Samoylov, but my full name is Elisaveta Samoylov. Currently, I’m a Master’s student at Carnegie Mellon in the Machine Learning Department.
 
-My research interests span **m**achine learning**,**NLP**, **automated reasoning**, **LLM agents**, **reinforcement learning**, and **formal verification**, with a particular interest in developing reliable and verifiable AI systems.
+My research interests span **machine learning**,**NLP**, **automated reasoning**, **LLM agents**, **reinforcement learning**, and **formal verification**, with a particular interest in developing reliable and verifiable AI systems.
 
 I'm always happy to connect and discuss research opportunities!
 
