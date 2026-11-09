@@ -2,7 +2,8 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Projects I've completed as part of coursework and in my free time! ⛏️
+description: Projects I've completed as part of coursework and in my free time! ⛏️ Some of my repos are <em>private</em>, so <a href="mailto:esamoylov@cmu.edu">email me</a> at esamoylov[at]cmu[dot]edu if you'd like to have a look!
+
 nav: true
 nav_order: 3
 display_categories: [work, coursework]
